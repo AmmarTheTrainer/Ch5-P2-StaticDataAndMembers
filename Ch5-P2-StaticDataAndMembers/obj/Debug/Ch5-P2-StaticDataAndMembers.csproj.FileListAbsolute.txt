@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Documents\Projects\Ch5-P2-StaticDataAndMembers\Ch5-P2-StaticDataAndMembers\bin\Debug\Ch5-P2-StaticDataAndMembers.exe.config
+C:\Users\Lenovo\Documents\Projects\Ch5-P2-StaticDataAndMembers\Ch5-P2-StaticDataAndMembers\bin\Debug\Ch5-P2-StaticDataAndMembers.exe
+C:\Users\Lenovo\Documents\Projects\Ch5-P2-StaticDataAndMembers\Ch5-P2-StaticDataAndMembers\bin\Debug\Ch5-P2-StaticDataAndMembers.pdb
+C:\Users\Lenovo\Documents\Projects\Ch5-P2-StaticDataAndMembers\Ch5-P2-StaticDataAndMembers\obj\Debug\Ch5-P2-StaticDataAndMembers.csprojAssemblyReference.cache
+C:\Users\Lenovo\Documents\Projects\Ch5-P2-StaticDataAndMembers\Ch5-P2-StaticDataAndMembers\obj\Debug\Ch5-P2-StaticDataAndMembers.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Projects\Ch5-P2-StaticDataAndMembers\Ch5-P2-StaticDataAndMembers\obj\Debug\Ch5-P2-StaticDataAndMembers.exe
+C:\Users\Lenovo\Documents\Projects\Ch5-P2-StaticDataAndMembers\Ch5-P2-StaticDataAndMembers\obj\Debug\Ch5-P2-StaticDataAndMembers.pdb
